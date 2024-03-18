@@ -12,11 +12,11 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://deeplor.s3.us-west-2.amazonaws.com/matting_preview/2024/03/18/f2baa57f4d6d49689b4c8375bb5ddb02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20240318T152120Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=10799&amp;X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20240318%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Signature=533dc9f4b8f3c3a2e62bedeb3114432de213ffde1285eb48d5cee5837c9a1e07" alt="project-screenshot" width="500" height="400/">
+<img src="https://deeplor.s3.us-west-2.amazonaws.com/matting_preview/2024/03/18/f2baa57f4d6d49689b4c8375bb5ddb02.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20240318T152120Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=10799&amp;X-Amz-Credential=AKIAROYXHKZUSZONTWIG%2F20240318%2Fus-west-2%2Fs3%2Faws4_request&amp;X-Amz-Signature=533dc9f4b8f3c3a2e62bedeb3114432de213ffde1285eb48d5cee5837c9a1e07" alt="project-screenshot" width="200" height="/">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzYxb3F2M3F0eHgxeHdyZXZ0dWl6N2loNmV2cjJ5b3BsbTU4bXJlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="project-screenshot" width="400" height="400/">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzYxb3F2M3F0eHgxeHdyZXZ0dWl6N2loNmV2cjJ5b3BsbTU4bXJlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif" alt="project-screenshot" width="200" height="/">
 
-<img src="https://cdn.gencraft.com/prod/user/04f3f815-9110-4421-b8c6-0a5efccc9e04/361b821a-9d18-4fd5-9653-d6790cfce570/image/image1_0.jpg?Expires=1710863848&amp;Signature=gYrsybGdipvhK-GMrmlecVzUvYVCiibZvfIns3Vof583gT0tAMPet4zIguqNqMUy4VQ2XPwq0zCET0bg1PqnASGfl~1Vk7uxzmT~nqfNJwV92tcO82imUn4cgnpxiOlZKqx7~PZYTNG-awNha0jY9vwBltpl7k6-4a7DIR-R8uxVCNv66j~y~xoeE3PEQd6MZ4hIOhGCuXssq3Xc-y8IVtFmUgYWE6XsdFb7SJLdpgaWYrxaf854kkZwj8iLn94K~GhzVbCehojfrX7IF-rCXkT1W13g7PRRukwp~rRcpArDOoTPftAgISUMN5lME~y32WGmSproUsiaPDvcI7kapg__&amp;Key-Pair-Id=K3RDDB1TZ8BHT8" alt="project-screenshot" width="350" height="400/">
+<img src="https://cdn.gencraft.com/prod/user/04f3f815-9110-4421-b8c6-0a5efccc9e04/361b821a-9d18-4fd5-9653-d6790cfce570/image/image1_0.jpg?Expires=1710863848&amp;Signature=gYrsybGdipvhK-GMrmlecVzUvYVCiibZvfIns3Vof583gT0tAMPet4zIguqNqMUy4VQ2XPwq0zCET0bg1PqnASGfl~1Vk7uxzmT~nqfNJwV92tcO82imUn4cgnpxiOlZKqx7~PZYTNG-awNha0jY9vwBltpl7k6-4a7DIR-R8uxVCNv66j~y~xoeE3PEQd6MZ4hIOhGCuXssq3Xc-y8IVtFmUgYWE6XsdFb7SJLdpgaWYrxaf854kkZwj8iLn94K~GhzVbCehojfrX7IF-rCXkT1W13g7PRRukwp~rRcpArDOoTPftAgISUMN5lME~y32WGmSproUsiaPDvcI7kapg__&amp;Key-Pair-Id=K3RDDB1TZ8BHT8" alt="project-screenshot" width="200" height="/">
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JneTVyaThpanc4dmVrNmZpMXdsZ2R3eThoZXdwMXFkdzkzcTBwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" alt="project-screenshot" width="355" height="400/">
 
